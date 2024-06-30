@@ -1,22 +1,16 @@
-# 게임 개발 2일차 : 로블록스 엔진 기능
+# 게임 개발 2일차 : Build It, Play It Challenges & Adventure Game & Battle Royale
 
 ## 학습 목표
- - 로블록스 엔진 기능 이해
+ - 로블록스 실습을 통한 기능 익히기
 
 ## 목차
-    - Project
-    - Assets
-    - 3D Workspace
-    - Scripting
-    - Enviroment
-    - Characters
-    - Players
-    - Input
-    - Sound
-    - User Interface
-    - Animation
-    - Chat
-    - Cloud Services
+   - Mansion of Wonder
+   - Island of Move
+   - Galactic Speedway
+   - Create and Destroy
+   - Story Games
+   - Adventure Game 만들기
+   - Battle Royale Game 만들기
 
  ## 출처
- - [Roblox engine guide](https://create.roblox.com/docs/ko-kr/get-started)의 해당 항목
+ - [Roblox build-it-play-it](https://create.roblox.com/docs/ko-kr/education/landing-pages/build-it-play-it)및 튜토리얼 시리즈의 해당 항목

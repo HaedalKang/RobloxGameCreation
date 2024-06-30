@@ -20,7 +20,16 @@
       - [Environmental Art](./day1/content/05_Roblox_tutorial.md#environmental-art)
       - [Gameplay Scripting](./day1/content/05_Roblox_tutorial.md#gameplay-scripting)
 
- - 2일차 : 로블록스 엔진 기능
+ - 2일차 : Build It, Play It Challenges & Adventure Game & Battle Royale
+   - Mansion of Wonder
+   - Island of Move
+   - Galactic Speedway
+   - Create and Destroy
+   - Story Games
+   - Adventure Game 만들기
+   - Battle Royale Game 만들기
+
+ - 3일차 : 로블록스 엔진 기능
     - Project
     - Assets
     - 3D Workspace
@@ -34,15 +43,6 @@
     - Animation
     - Chat
     - Cloud Services
-
- - 3일차 : Build It, Play It Challenges & Adventure Game & Battle Royale
-   - Mansion of Wonder
-   - Island of Move
-   - Galactic Speedway
-   - Create and Destroy
-   - Story Games
-   - Adventure Game 만들기
-   - Battle Royale Game 만들기
 
  - 4일차 : Avatar
    - Blender 환경설정
