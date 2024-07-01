@@ -296,4 +296,4 @@
 [Adding Scripts](https://create.roblox.com/docs/ko-kr/education/build-it-play-it-mansion-of-wonder/adding-scripts)
 
 ---
-## [다음]()
+## [다음](./03_01_Island_of_Move.md)

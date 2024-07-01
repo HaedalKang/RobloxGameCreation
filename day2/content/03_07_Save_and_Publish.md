@@ -50,4 +50,4 @@
 [Save and Publish](https://create.roblox.com/docs/ko-kr/education/build-it-play-it-island-of-move/save-and-publish)
 
 ---
-## [다음](./03_08_)
+## [다음](./03_08_Challenge_Checkpoint.md)

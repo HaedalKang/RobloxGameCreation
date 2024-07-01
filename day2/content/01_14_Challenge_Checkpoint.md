@@ -28,4 +28,4 @@
 [Challenge Checkpoint](https://create.roblox.com/docs/ko-kr/education/build-it-play-it-mansion-of-wonder/challenge-checkpoint-3)
 
 ---
-## [다음]()
+## [다음](./02_01_Mansion_of_Wonder_Overview.md)
