@@ -23,4 +23,4 @@
 [Going for a Race](https://create.roblox.com/docs/ko-kr/education/build-it-play-it-galactic-speedway/going-for-a-race)
 
 ---
-## [다음](05_10)
+## [다음](06_01_Create_and_Destroy.md)
